@@ -1,0 +1,20 @@
+operacoes
+criarBloco 0 0 5
+criarBloco 3 2 1
+5 2 10 2
+5 3 15 2
+5 4 11 3
+criarBloco 3 2 4
+1 2 10 2
+1 2 15 3
+5 1 11 4
+criarBloco 1 1 1
+5 1 215 0
+criarBloco 0 1 0
+criarBloco 1 1 1
+1 7 10 0
+criarBloco 0 1 0
+criarBloco 0 1 0
+criarBloco 0 1 0
+imprimeBlockchain
+imprimeTransacoes

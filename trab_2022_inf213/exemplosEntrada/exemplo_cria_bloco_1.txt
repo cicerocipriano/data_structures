@@ -1,0 +1,9 @@
+operacoes
+imprimeBlockchain
+criarBloco 0 0 5
+imprimeBlockchain
+criarBloco 3 2 1
+5 2 10 2
+5 3 15 2
+5 4 11 3
+imprimeBlockchain

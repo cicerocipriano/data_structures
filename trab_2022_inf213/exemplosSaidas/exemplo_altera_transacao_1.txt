@@ -1,0 +1,74 @@
+=====================
+---------------------
+Pos: 1
+Prev hash: 0
+Criador: 5
+Transacoes:
+Proof of work: 1038
+Hash: 1603349504
+---------------------
+          ^
+          |
+          v
+---------------------
+Pos: 2
+Prev hash: 1603349504
+Criador: 1
+Transacoes:
+5 -> 4 (valor: 11 , taxa: 3)
+5 -> 2 (valor: 10 , taxa: 2)
+Proof of work: 73
+Hash: 1959380992
+---------------------
+          ^
+          |
+          v
+---------------------
+Pos: 3
+Prev hash: 1959380992
+Criador: 4
+Transacoes:
+5 -> 1 (valor: 11 , taxa: 4)
+1 -> 2 (valor: 15 , taxa: 3)
+Proof of work: 382
+Hash: 59290624
+---------------------
+
+=====================
+=====================
+---------------------
+Pos: 1
+Prev hash: 0
+Criador: 5
+Transacoes:
+Proof of work: 1038
+Hash: 1603349504
+---------------------
+          ^
+          |
+          v
+---------------------
+Pos: 2
+Prev hash: 1603349504
+Criador: 1
+Transacoes:
+5 -> 4 (valor: 11 , taxa: 3)
+5 -> 2 (valor: 11 , taxa: 2)
+Proof of work: 49
+Hash: 1446185984
+---------------------
+          ^
+          |
+          v
+---------------------
+Pos: 3
+Prev hash: 1959380992
+Criador: 4
+Transacoes:
+5 -> 1 (valor: 11 , taxa: 4)
+1 -> 2 (valor: 15 , taxa: 3)
+Proof of work: 382
+Hash: 59290624
+---------------------
+
+=====================
